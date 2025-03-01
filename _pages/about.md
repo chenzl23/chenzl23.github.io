@@ -30,20 +30,20 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NN</div><img src='images/AMOGCN.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-**[Attributed Multi-order Graph Convolutional Network for Heterogeneous Graphs](https://doi.org/10.1016/j.neunet.2024.106225)**,<br />
-   **Zhaoliang Chen**, Zhihao Wu, Luying Zhong, Claudia Plant, Shiping Wang, Wenzhong Guo <br />
-   *Neural Networks, Volume 174, Page 106225, 2024*. (CCF B, SCI Q1) \| [\[code\]](https://github.com/chenzl23/AMOGCN)
-</div></div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS</div><img src='images/AGNN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[AGNN: Alternating Graph-Regularized Neural Networks to Alleviate Over-Smoothing](https://doi.org/10.1109/TNNLS.2023.3271623)**,<br />
    **Zhaoliang Chen**, Zhihao Wu, Zhenghong Lin, Shiping Wang, Claudia Plant, Wenzhong Guo <br />
    *IEEE Transactions on Neural Networks and Learning Systems, Volume 35(10), Pages 13764-13776, 2024*. (CCF B, SCI Q1) \| [\[code\]](https://github.com/chenzl23/AGNN)
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NN</div><img src='images/AMOGCN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**[Attributed Multi-order Graph Convolutional Network for Heterogeneous Graphs](https://doi.org/10.1016/j.neunet.2024.106225)**,<br />
+   **Zhaoliang Chen**, Zhihao Wu, Luying Zhong, Claudia Plant, Shiping Wang, Wenzhong Guo <br />
+   *Neural Networks, Volume 174, Page 106225, 2024*. (CCF B, SCI Q1) \| [\[code\]](https://github.com/chenzl23/AMOGCN)
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/DLRGAE.jpg' alt="sym" width="100%"></div></div>
@@ -110,6 +110,15 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
     *AAAI Conference on Artificial Intelligence, 2025*. (CCF A)
 </div></div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS</div><img src='images/SGIB.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**[Learnable Graph Convolutional Network With Semisupervised Graph Information Bottleneck](https://doi.org/10.1109/TNNLS.2023.3322739)**,<br />
+    Luying Zhong, **Zhaoliang Chen**, Zhihao Wu, Shide Du, Zheyi Chen, Shiping Wang <br />
+    *IEEE Transactions on Neural Networks and Learning Systems, Volume 36(1), Page 433-446, 2025*. (CCF B, SCI Q1)
+</div></div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM</div><img src='images/ECMGD.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -128,6 +137,14 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMC genomics</div><img src='images/DeepMoIC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='images/GCNet.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**[Graph Convolutional Network with Elastic Topology](https://doi.org/10.1016/j.patcog.2024.110567)**,<br />
+    Zhihao Wu, **Zhaoliang Chen**, Shide Du, Sujia Huang, Shiping Wang <br />
+    *Pattern Recognition, Volume 150, Page 110567, 2024*. (CCF B, SCI Q1) \| [\[code\]](https://github.com/ZhihaoWu99/GCNet)
+</div></div>
   
 **[DeepMoIC: multi-omics data integration via deep graph convolutional networks for cancer subtype classification](https://link.springer.com/content/pdf/10.1186/s12864-024-11112-5.pdf)**,<br />
     Jiecheng Wu, **Zhaoliang Chen**, Shunxin Xiao, Genggeng Liu, Wenjie Wu, Shiping Wang <br />
@@ -142,28 +159,12 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
     *Expert Systems with Applications, Volume 237, Page 125677, 2025*. (CCF C, SCI Q1)
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='images/GCNet.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-**[Graph Convolutional Network with Elastic Topology](https://doi.org/10.1016/j.patcog.2024.110567)**,<br />
-    Zhihao Wu, **Zhaoliang Chen**, Shide Du, Sujia Huang, Shiping Wang <br />
-    *Pattern Recognition, Volume 150, Page 110567, 2024*. (CCF B, SCI Q1) \| [\[code\]](https://github.com/ZhihaoWu99/GCNet)
-</div></div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INS</div><img src='images/GLGCN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[Geometric Localized Graph Convolutional Network for Multi-view Semi-supervised Classification](https://doi.org/10.1016/j.ins.2024.120769)**,<br />
     Aiping Huang, Jielong Lu, Zhihao Wu, **Zhaoliang Chen**, Yuhong Chen, Shiping Wang, Hehong Zhang <br />
     *Information Sciences, Page 120769, 2024*. (CCF B, SCI Q1)
-</div></div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS</div><img src='images/SGIB.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-**[Learnable Graph Convolutional Network With Semisupervised Graph Information Bottleneck](https://doi.org/10.1109/TNNLS.2023.3322739)**,<br />
-    Luying Zhong, **Zhaoliang Chen**, Zhihao Wu, Shide Du, Zheyi Chen, Shiping Wang <br />
-    *IEEE Transactions on Neural Networks and Learning Systems, Volume 36(1), Page 433-446, 2025*. (CCF B, SCI Q1)
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INS</div><img src='images/AMCGCN.jpg' alt="sym" width="100%"></div></div>
@@ -255,4 +256,4 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
 </div></div>
 
 
-
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=333&t=tt&d=1ulB9ZQGFru21d-WVtCOCUjEViGcsvM4IKn-_xFkYZI&cmn=3e3acc'></script>
