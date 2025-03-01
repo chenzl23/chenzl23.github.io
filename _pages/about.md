@@ -22,6 +22,10 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 One paper has been accepted by AAAI 2025 (CCF-A)!
+- *2024.09*: &nbsp;🎉🎉 I have joined Hong Kong Baptist University and started my postdoctoral research work!
+- *2024.07*: &nbsp;🎉🎉 One paper has been accepted by ACM MM 2024 (CCF-A)! Congrats to Jielong Lu!
+- *2024.06*: &nbsp;🎉🎉 I have graduated from Fuzhou University as an outstanding doctoral graduate！
+- *2024.05*: &nbsp;🎉🎉 I have successfully passed my doctoral thesis defense! 
 
 # 📖 Work Experience
 - *2024.09 - Now*, Postdoc, Department of Computer Science, Hong Kong Baptist University, Hong Kong SAR, China.
