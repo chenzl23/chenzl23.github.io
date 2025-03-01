@@ -71,7 +71,7 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
 
 {% include_relative publication/others.md %}
 
-# Links
+# 📎 Links
 - [FZUThesis](https://github.com/chenzl23/FZUThesis): Latex Template for FZU Thesis.
 - [CCF Recommendation List](https://ccf.atom.im/)
 - [CCF Recommendation Conference Deadlines](https://ccfddl.github.io/)
