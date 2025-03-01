@@ -274,7 +274,7 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
 </div></div>
 
 
-**[IEEE TSP]**  
+**[IEEE TSP]**
 **[Differentiable bi-Sparse multi-view co-clustering](https://doi.org/10.1109/TSP.2021.3101979)**,<br />
     Shide Du, Zhanghui Liu, **Zhaoliang Chen**, Wenyuan Yang, Shiping Wang <br />
     *IEEE Transactions on Signal Processing, Volume 69, Pages 4623-4636, 2021*. (CCF B, SCI Q1)
