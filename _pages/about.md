@@ -281,13 +281,11 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
     *IEEE Transactions on Signal Processing, Volume 69, Pages 4623-4636, 2021*. (CCF B, SCI Q1)
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2021</div><img src='images/MDGCN.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
   
-**[A unified modular framework with deep graph convolutional networks for multi-label image recognition](https://link.springer.com/chapter/10.1007/978-3-030-88007-1_5)**,<br />
+``PRCV 2021``**[A unified modular framework with deep graph convolutional networks for multi-label image recognition](https://link.springer.com/chapter/10.1007/978-3-030-88007-1_5)**,<br />
     Qifan Lin, **Zhaoliang Chen**, Shiping Wang, Wenzhong Guo <br />
     *Pattern Recognition and Computer Vision, Volume 13020, Pages 54-65, 2021*. (CCF C)
-</div></div>
+
 
 # Links
 - [FZUThesis](https://github.com/chenzl23/FZUThesis): Latex Template for FZU Thesis.
