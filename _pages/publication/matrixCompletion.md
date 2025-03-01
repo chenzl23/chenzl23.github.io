@@ -1,4 +1,4 @@
-## Recommender Systems and Matrix Completion
+## 💡 Recommender Systems and Matrix Completion
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/DLRL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
