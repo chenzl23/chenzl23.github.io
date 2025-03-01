@@ -119,7 +119,7 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
 </div></div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM</div><img src='images/ECMGD.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/ECMGD.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[Towards Multi-view Consistent Graph Diffusion](https://openreview.net/forum?id=2AnSGzLiGs)**,<br />
@@ -139,7 +139,7 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='images/GCNet.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-**[Graph Convolutional Network with Elastic Topology](https://doi.org/10.1016/j.patcog.2024.110567)**,<br />
+**[Graph Convolutional Network with Elastic Topology](https://www.sciencedirect.com/science/article/pii/S0031320324001158)**,<br />
     Zhihao Wu, **Zhaoliang Chen**, Shide Du, Sujia Huang, Shiping Wang <br />
     *Pattern Recognition, Volume 150, Page 110567, 2024*. (CCF B, SCI Q1) \| [\[code\]](https://github.com/ZhihaoWu99/GCNet)
 </div></div>
@@ -149,7 +149,7 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
   
 **[DeepMoIC: multi-omics data integration via deep graph convolutional networks for cancer subtype classification](https://link.springer.com/content/pdf/10.1186/s12864-024-11112-5.pdf)**,<br />
     Jiecheng Wu, **Zhaoliang Chen**, Shunxin Xiao, Genggeng Liu, Wenjie Wu, Shiping Wang <br />
-    *BMC Genomics, 2024*. (SCI Q2)
+    *BMC Genomics, Volume 25, 2024*. (SCI Q2)
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/ESWA2024MESG.png' alt="sym" width="100%"></div></div>
@@ -243,7 +243,7 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSP</div><img src='images/EDBMC.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-**[Differentiable bi-Sparse multi-View co-clustering](https://doi.org/10.1109/TSP.2021.3101979)**,<br />
+**[Differentiable bi-Sparse multi-view co-clustering](https://doi.org/10.1109/TSP.2021.3101979)**,<br />
     Shide Du, Zhanghui Liu, **Zhaoliang Chen**, Wenyuan Yang, Shiping Wang <br />
     *IEEE Transactions on Signal Processing, Volume 69, Pages 4623-4636, 2021*. (CCF B, SCI Q1)
 </div></div>
@@ -251,7 +251,7 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2021</div><img src='images/MDGCN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-**[A unified modular framework with deep graph convolutional networks for multi-label image recognition](https://doi.org/10.1007/978-3-030-88007-1\_5)**,<br />
+**[A unified modular framework with deep graph convolutional networks for multi-label image recognition](https://link.springer.com/chapter/10.1007/978-3-030-88007-1_5)**,<br />
     Qifan Lin, **Zhaoliang Chen**, Shiping Wang, Wenzhong Guo <br />
     *Pattern Recognition and Computer Vision, Volume 13020, Pages 54-65, 2021*. (CCF C)
 </div></div>
