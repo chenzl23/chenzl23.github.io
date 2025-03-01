@@ -32,7 +32,7 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
 
 # 📖 Educations
 - *2019.09 - 2024.06*, Ph.D., College of Computer and Data Science, Fuzhou University, China.
-- *2022.10 - 2023.10*, Joint Ph.D. Student, Faculty of Computer Science, University of Vienna, Austria.
+- *2022.10 - 2023.10*, Joint Ph.D. Student funded by CSC, Faculty of Computer Science, University of Vienna, Austria.
 - *2015.09 - 2019.06*, B.E., College of Mathematics and Computer Science, Fuzhou University, China
 
 
