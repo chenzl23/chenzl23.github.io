@@ -289,5 +289,14 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
     *Pattern Recognition and Computer Vision, Volume 13020, Pages 54-65, 2021*. (CCF C)
 </div></div>
 
+# Links
+- [FZUThesis](https://github.com/chenzl23/FZUThesis): Latex Template for FZU Thesis.
+- [CCF Recommendation List](https://ccf.atom.im/)
+- [CCF Recommendation Conference Deadlines](https://ccfddl.github.io/)
+- [Fabulous](https://github.com/Creator-SN/Fabulous): an integrated management system for papers and literature, developed by Aleversn.
+- [Matrix Calculus](https://www.matrixcalculus.org/?tdsourcetag=s_pctim_aiomsg)
+- [Latex Table Convert](https://tableconvert.com/)
+- [Latex Table Generator](https://www.tablesgenerator.com/)
+- [Excel2latex](https://ctan.org/pkg/excel2latex?lang=en): a package for transforming excel tables into latex codes.
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=333&t=tt&d=1ulB9ZQGFru21d-WVtCOCUjEViGcsvM4IKn-_xFkYZI&cmn=3e3acc'></script>
