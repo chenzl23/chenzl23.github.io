@@ -160,125 +160,93 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
     *ACM Multimedia, 2024*. (CCF A, Oral 3.97%) 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/GEGCN.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
+
+**[IEEE TMM]**
 **[Generative Essential Graph Convolutional Network for Multi-view Semi-supervised Classification](https://ieeexplore.ieee.org/abstract/document/10462517)**,<br />
     Jielong Lu, Zhihao Wu, Luying Zhong, **Zhaoliang Chen**, Hong Zhao, Shiping Wang <br />
     *IEEE Transactions on Multimedia, Volume 26, Pages 7987-7999, 2024*. (CCF B, SCI Q1) \| [\[code\]](https://github.com/long319/GEGCN)
-</div></div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='images/GCNet.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
+**[PR]**
 **[Graph Convolutional Network with Elastic Topology](https://www.sciencedirect.com/science/article/pii/S0031320324001158)**,<br />
     Zhihao Wu, **Zhaoliang Chen**, Shide Du, Sujia Huang, Shiping Wang <br />
     *Pattern Recognition, Volume 150, Page 110567, 2024*. (CCF B, SCI Q1) \| [\[code\]](https://github.com/ZhihaoWu99/GCNet)
-</div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMC genomics</div><img src='images/DeepMoIC.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
+
+**[BMC Genomics]**
 **[DeepMoIC: multi-omics data integration via deep graph convolutional networks for cancer subtype classification](https://link.springer.com/content/pdf/10.1186/s12864-024-11112-5.pdf)**,<br />
     Jiecheng Wu, **Zhaoliang Chen**, Shunxin Xiao, Genggeng Liu, Wenjie Wu, Shiping Wang <br />
     *BMC Genomics, Volume 25, 2024*. (SCI Q2)
-</div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/ESWA2024MESG.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-    
+**[ESWA]**
 **[Multi-scale structure-guided graph generation for multi-view semi-supervised classification](https://doi.org/10.1016/j.eswa.2024.125677)**,<br />
     Yilin Wu, **Zhaoliang Chen**, Ying Zou, Shiping Wang, Wenzhong Guo <br />
     *Expert Systems with Applications, Volume 237, Page 125677, 2025*. (CCF C, SCI Q1)
-</div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INS</div><img src='images/GLGCN.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
+
+**[INS]**
 **[Geometric Localized Graph Convolutional Network for Multi-view Semi-supervised Classification](https://doi.org/10.1016/j.ins.2024.120769)**,<br />
     Aiping Huang, Jielong Lu, Zhihao Wu, **Zhaoliang Chen**, Yuhong Chen, Shiping Wang, Hehong Zhang <br />
     *Information Sciences, Page 120769, 2024*. (CCF B, SCI Q1)
-</div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INS</div><img src='images/AMCGCN.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
+
+**[INS]**
 **[Adaptive Multi-channel Contrastive Graph Convolutional Network with Graph and Feature Fusion](https://doi.org/10.1016/j.ins.2023.120012)**,<br />
     Luying Zhong, Jielong Lu, **Zhaoliang Chen**, Na Song, Shiping Wang <br />
     *Information Sciences, Volume 658, Page 120012, 2024*. (CCF B, SCI Q1)
-</div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NN</div><img src='images/JFGCN.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
+
+**[IEEE NN]**
 **[Joint learning of feature and topology for multi-view graph convolutional network](https://doi.org/10.1016/j.neunet.2023.09.006)**,<br />
     Yuhong Chen, Zhihao Wu, **Zhaoliang Chen**, Mianxiong Dong, Shiping Wang <br />
     *Neural Networks, Volume 168, Pages 161-170, 2023*. (CCF B, SCI Q1) \| [\[code\]](https://github.com/YuhongChen2320/JFGCN)
-</div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/IMVGCN.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
+
+**[IEEE TMM]**
 **[Interpretable Graph Convolutional Network for Multi-View Semi-Supervised Learning](https://doi.org/10.1109/TMM.2023.3260649)**,<br />
     Zhihao Wu, Xincan Lin, Zhenghong Lin, **Zhaoliang Chen**, Yang Bai, Shiping Wang <br />
     *IEEE Transactions on Multimedia, Volume 25, Pages 8593-8606, 2023*. (CCF B, SCI Q1) \| [\[code\]](https://github.com/ZhihaoWu99/IMvGCN)
-</div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSP</div><img src='images/CGCN.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
+**[IEEE TSP]**  
 **[Contrastive Graph Convolutional Networks with Generative Adjacency Matrix](https://doi.org/10.1109/TSP.2023.3254888)**,<br />
     Luying Zhong, Jinbin Yang, **Zhaoliang Chen**, Shiping Wang <br />
     *IEEE Transactions on Signal Processing, Volume 71, Pages 772-785, 2023*. (CCF B, SCI Q1)
-</div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/DFPGNN.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
+
+**[IEEE TMM]**
 **[Dual Fusion-Propagation Graph Neural Network for Multi-View Clustering](https://doi.org/10.1109/TMM.2023.3248173)**,<br />
     Shunxin Xiao, Shide Du, **Zhaoliang Chen**, Yunhe Zhang, Shiping Wang <br />
     *IEEE Transactions on Multimedia, Volume 25, Pages 9203-9215, 2023*. (CCF B, SCI Q1) \| [\[code\]](https://github.com/Xiaoshunxin/DFP-GNN)
-</div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/ULTLSE.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
+
+**[IEEE TMM]**
 **[Unified Low-Rank Tensor Learning and Spectral Embedding for Multi-View Subspace Clustering](https://doi.org/10.1109/TMM.2022.3185886)**,<br />
     Lele Fu, **Zhaoliang Chen**, Yongyong Chen, Shiping Wang <br />
     *IEEE Transactions on Multimedia, Volume 25, Pages 4972-4985, 2022*. (CCF B, SCI Q1)
-</div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INS</div><img src='images/DDMF.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
+
+**[INS]**
 **[Diversity embedding deep matrix factorization for multi-view clustering](https://doi.org/10.1016/j.ins.2022.07.177)**,<br />
     Zexi Chen, Pengfei Lin, **Zhaoliang Chen**, Dongyi Ye, Shiping Wang <br />
     *Information Sciences, Volume 610, Pages 114-125, 2022*. (CCF B, SCI Q1)
-</div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2021</div><img src='images/MLLTO.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
+
+**[ICME 2021]**
 **[Multi-View Learning Via Low-Rank Tensor Optimization](https://doi.org/10.1109/ICME51207.2021.9428291)**,<br />
     Lele Fu, **Zhaoliang Chen**, Sujia Huang, Sheng Huang, Shiping Wang <br />
     *IEEE International Conference on Multimedia and Expo, Pages 1-6, 2021*. (CCF B)
-</div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INS</div><img src='images/DRWDR.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
+
+**[INS]**
 **[Deep random walk of unitary invariance for large-scale data representation](https://doi.org/10.1016/j.ins.2020.11.039)**,<br />
     Shiping Wang, **Zhaoliang Chen**, William Zhu, Fei-Yue Wang <br />
     *Information Sciences, Volume 554, Pages 1-14, 2021*. (CCF B, SCI Q1)
-</div></div>
 
 
 **[IEEE TSP]**
 **[Differentiable bi-Sparse multi-view co-clustering](https://doi.org/10.1109/TSP.2021.3101979)**,<br />
     Shide Du, Zhanghui Liu, **Zhaoliang Chen**, Wenyuan Yang, Shiping Wang <br />
     *IEEE Transactions on Signal Processing, Volume 69, Pages 4623-4636, 2021*. (CCF B, SCI Q1)
-</div></div>
 
   
 **[PRCV 2021]**
