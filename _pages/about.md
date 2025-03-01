@@ -273,16 +273,15 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
     *Information Sciences, Volume 554, Pages 1-14, 2021*. (CCF B, SCI Q1)
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSP</div><img src='images/EDBMC.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
+
+**[IEEE TSP]**  
 **[Differentiable bi-Sparse multi-view co-clustering](https://doi.org/10.1109/TSP.2021.3101979)**,<br />
     Shide Du, Zhanghui Liu, **Zhaoliang Chen**, Wenyuan Yang, Shiping Wang <br />
     *IEEE Transactions on Signal Processing, Volume 69, Pages 4623-4636, 2021*. (CCF B, SCI Q1)
 </div></div>
 
   
-[PRCV 2021]
+**[PRCV 2021]**
 **[A unified modular framework with deep graph convolutional networks for multi-label image recognition](https://link.springer.com/chapter/10.1007/978-3-030-88007-1_5)**,<br />
     Qifan Lin, **Zhaoliang Chen**, Shiping Wang, Wenzhong Guo <br />
     *Pattern Recognition and Computer Vision, Volume 13020, Pages 54-65, 2021*. (CCF C)
