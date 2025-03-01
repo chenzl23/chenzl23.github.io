@@ -29,7 +29,9 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
 - *2015.09 - 2019.06*, B.E., College of Mathematics and Computer Science, Fuzhou University, China
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NN</div><img src='images/AMOGCN.jpg' alt="sym" width="100%"></div></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NN</div><img src='images/AMOGCN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 **[Attributed Multi-order Graph Convolutional Network for Heterogeneous Graphs](https://doi.org/10.1016/j.neunet.2024.106225)**,<br />
    **Zhaoliang Chen**, Zhihao Wu, Luying Zhong, Claudia Plant, Shiping Wang, Wenzhong Guo <br />
