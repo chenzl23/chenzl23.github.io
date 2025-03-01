@@ -23,10 +23,38 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 One paper has been accepted by AAAI 2025 (CCF-A)!
 
+# 📖 Academic Service
+- **Reviewers**
+  - IEEE Transactions on Image Processing (IEEE TIP)
+  - IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
+  - IEEE Transactions on Multimedia (IEEE TMM)
+  - IEEE Transactions on Intelligent Transportation Systems (IEEE TITS)
+  - IEEE Transactions on Systems, Man, and Cybernetics Systems (IEEE TSMC)
+  - IEEE Transactions on Signal Processing (IEEE TSP)
+  - IEEE Signal Processing Letters
+  - Pattern Recognition
+  - Neural Networks
+  - Neural Processing Letters
+  - Artificial Intelligence Review
+  - Knowledge and Information Systems (KAIS)
+  - The Journal of Supercomputing
+  - ACM Transactions on Information Systems (TOIS)
+- **PC Members**
+  - KDD 2025
+  - ICML 2025
+  - CVPR 2025
+  - IJCAI 2025
+  - ACM MM 2024
+  - ECCV 2024
+  - NeurIPS 2024
+
 # 📖 Educations
 - *2019.09 - 2024.06*, Ph.D., College of Computer and Data Science, Fuzhou University, China.
 - *2022.10 - 2023.10*, Joint Ph.D. Student, Faculty of Computer Science, University of Vienna, Austria.
 - *2015.09 - 2019.06*, B.E., College of Mathematics and Computer Science, Fuzhou University, China
+
+# 📖 Work Experience
+- *2024.09 - Now*, Postdoc, Department of Computer Science, Hong Kong Baptist University, Hong Kong SAR, China.
 
 # 📝 Publications 
 
