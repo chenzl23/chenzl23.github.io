@@ -1,4 +1,4 @@
-## Multi-view Learning
+## 💡 Multi-view Learning
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INF</div><img src='images/LGCN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
