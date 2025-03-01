@@ -68,7 +68,7 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
   
 **[AGNN: Alternating Graph-Regularized Neural Networks to Alleviate Over-Smoothing](https://doi.org/10.1109/TNNLS.2023.3271623)**,<br />
    **Zhaoliang Chen**, Zhihao Wu, Zhenghong Lin, Shiping Wang, Claudia Plant, Wenzhong Guo <br />
-   *IEEE Transactions on Neural Networks and Learning Systems, Volume 35(10), Pages 13764-13776, 2024*. (<span style="color:red">CCF B, SCI Q1</span>) \| [\[code\]](https://github.com/chenzl23/AGNN)
+   *IEEE Transactions on Neural Networks and Learning Systems, Volume 35(10), Pages 13764-13776, 2024*. (<span style="color:red">**CCF B, SCI Q1**</span>) \| [\[code\]](https://github.com/chenzl23/AGNN)
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NN</div><img src='images/AMOGCN.jpg' alt="sym" width="100%"></div></div>
