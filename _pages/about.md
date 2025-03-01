@@ -282,7 +282,8 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
 </div></div>
 
   
-``PRCV 2021``**[A unified modular framework with deep graph convolutional networks for multi-label image recognition](https://link.springer.com/chapter/10.1007/978-3-030-88007-1_5)**,<br />
+<div class="badge">PRCV 2021</div>
+**[A unified modular framework with deep graph convolutional networks for multi-label image recognition](https://link.springer.com/chapter/10.1007/978-3-030-88007-1_5)**,<br />
     Qifan Lin, **Zhaoliang Chen**, Shiping Wang, Wenzhong Guo <br />
     *Pattern Recognition and Computer Vision, Volume 13020, Pages 54-65, 2021*. (CCF C)
 
