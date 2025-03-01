@@ -61,7 +61,7 @@
     Luying Zhong, Jielong Lu, **Zhaoliang Chen**, Na Song, Shiping Wang <br />
     *Information Sciences, Volume 658, Page 120012, 2024*. (<span style="color:red">**CCF B, SCI Q1**</span>)
     
-**[IEEE TSP]**  
+**[IEEE TSP]**
 **[Contrastive Graph Convolutional Networks with Generative Adjacency Matrix](https://doi.org/10.1109/TSP.2023.3254888)**,<br />
     Luying Zhong, Jinbin Yang, **Zhaoliang Chen**, Shiping Wang <br />
     *IEEE Transactions on Signal Processing, Volume 71, Pages 772-785, 2023*. (<span style="color:red">**CCF B, SCI Q1**</span>)
