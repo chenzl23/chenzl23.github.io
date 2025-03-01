@@ -1,14 +1,5 @@
 ## Graph Neural Networks
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/DLRGAE.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-**[Dual Low-Rank Graph Autoencoder for Semantic and Topological Networks](https://doi.org/10.1609/aaai.v37i4.25536)**,<br />
-   **Zhaoliang Chen**, Zhihao Wu, Shiping Wang, Wenzhong Guo <br />
-   *AAAI Conference on Artificial Intelligence, Volume 37(4), Pages 4191-4198, 2023*. (<span style="color:red">**CCF A**</span>) \| [\[code\]](https://github.com/chenzl23/DLRGAE)
-</div></div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS</div><img src='images/AGNN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -17,6 +8,13 @@
    *IEEE Transactions on Neural Networks and Learning Systems, Volume 35(10), Pages 13764-13776, 2024*. (<span style="color:red">**CCF B, SCI Q1**</span>) \| [\[code\]](https://github.com/chenzl23/AGNN)
 </div></div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/DLRGAE.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**[Dual Low-Rank Graph Autoencoder for Semantic and Topological Networks](https://doi.org/10.1609/aaai.v37i4.25536)**,<br />
+   **Zhaoliang Chen**, Zhihao Wu, Shiping Wang, Wenzhong Guo <br />
+   *AAAI Conference on Artificial Intelligence, Volume 37(4), Pages 4191-4198, 2023*. (<span style="color:red">**CCF A**</span>) \| [\[code\]](https://github.com/chenzl23/DLRGAE)
+</div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NN</div><img src='images/AMOGCN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
