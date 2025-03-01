@@ -35,7 +35,7 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
   
 **[Attributed Multi-order Graph Convolutional Network for Heterogeneous Graphs](https://doi.org/10.1016/j.neunet.2024.106225)**,<br />
    **Zhaoliang Chen**, Zhihao Wu, Luying Zhong, Claudia Plant, Shiping Wang, Wenzhong Guo <br />
-   *Neural Networks, 2024*. (CCF B, SCI Q1) \| [\[code\]](https://github.com/chenzl23/AMOGCN)
+   *Neural Networks, 2024, Volume 174, Page 106225*. (CCF B, SCI Q1) \| [\[code\]](https://github.com/chenzl23/AMOGCN)
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS</div><img src='images/AGNN.png' alt="sym" width="100%"></div></div>
