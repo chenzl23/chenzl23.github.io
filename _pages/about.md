@@ -92,7 +92,7 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
     
 **[Learnable Graph Convolutional Network and Feature Fusion for Multi-view Learning](https://www.sciencedirect.com/science/article/abs/pii/S1566253523000532)**,<br />
    **Zhaoliang Chen**, Lele Fu, Jie Yao, Wenzhong Guo, Claudia Plant, Shiping Wang <br />
-   *Information Fusion, Volume 95, Pages 109-119, 2023*. (SCI Q1, ESI Highly Cited) \| [\[code\]](https://github.com/chenzl23/LGCNFF)
+   *Information Fusion, Volume 95, Pages 109-119, 2023*. (SCI Q1, ESI Highly Cited <span class='show_paper_citations' data='LM0QNdQAAAAJ:WF5omc3nYNoC'></span>) \| [\[code\]](https://github.com/chenzl23/LGCNFF)
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDD</div><img src='images/MGCNDNS.jpg' alt="sym" width="100%"></div></div>
