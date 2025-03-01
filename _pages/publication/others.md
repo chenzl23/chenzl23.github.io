@@ -1,4 +1,4 @@
-## Others
+## 💡 Others
 
 **[INS]**
 **[Deep random walk of unitary invariance for large-scale data representation](https://doi.org/10.1016/j.ins.2020.11.039)**,<br />
