@@ -246,7 +246,7 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
     *IEEE Transactions on Signal Processing, 2021*. (CCF B, SCI Q1)
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2021</div><img src='images/EDBMC.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2021</div><img src='images/MDGCN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[A unified modular framework with deep graph convolutional networks for multi-label image recognition](https://doi.org/10.1007/978-3-030-88007-1\_5)**,<br />
