@@ -23,6 +23,15 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 One paper has been accepted by AAAI 2025 (CCF-A)!
 
+# 📖 Work Experience
+- *2024.09 - Now*, Postdoc, Department of Computer Science, Hong Kong Baptist University, Hong Kong SAR, China.
+
+# 📖 Educations
+- *2019.09 - 2024.06*, Ph.D., College of Computer and Data Science, Fuzhou University, China.
+- *2022.10 - 2023.10*, Joint Ph.D. Student, Faculty of Computer Science, University of Vienna, Austria.
+- *2015.09 - 2019.06*, B.E., College of Mathematics and Computer Science, Fuzhou University, China
+
+
 # 📖 Academic Service
 - **Reviewers**
   - IEEE Transactions on Image Processing (IEEE TIP)
@@ -47,14 +56,6 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
   - ACM MM 2024
   - ECCV 2024
   - NeurIPS 2024
-
-# 📖 Educations
-- *2019.09 - 2024.06*, Ph.D., College of Computer and Data Science, Fuzhou University, China.
-- *2022.10 - 2023.10*, Joint Ph.D. Student, Faculty of Computer Science, University of Vienna, Austria.
-- *2015.09 - 2019.06*, B.E., College of Mathematics and Computer Science, Fuzhou University, China
-
-# 📖 Work Experience
-- *2024.09 - Now*, Postdoc, Department of Computer Science, Hong Kong Baptist University, Hong Kong SAR, China.
 
 # 📝 Publications 
 
