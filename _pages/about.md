@@ -39,9 +39,13 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS</div><img src='images/AGNN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 **[AGNN: Alternating Graph-Regularized Neural Networks to Alleviate Over-Smoothing](https://doi.org/10.1109/TNNLS.2023.3271623)**,<br />
    **Zhaoliang Chen**, Zhihao Wu, Zhenghong Lin, Shiping Wang, Claudia Plant, Wenzhong Guo <br />
    *IEEE Transactions on Neural Networks and Learning Systems, 2024*. (CCF B, SCI Q1) \| [\[code\]](https://github.com/chenzl23/AGNN)
+</div>
+</div>
 
 **[Dual Low-Rank Graph Autoencoder for Semantic and Topological Networks](https://doi.org/10.1609/aaai.v37i4.25536)**,<br />
    **Zhaoliang Chen**, Zhihao Wu, Shiping Wang, Wenzhong Guo <br />
