@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhao-Liang Chen - Homepage"
-description              : "The Homepage of Zhao-Liang Chen."
+description              : 
 repository               : "chenzl23/chenzl23.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zhao-Liang Chen"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/ZhaoliangChen.jpg"
   bio              : "Hong Kong Baptist University"
   location         : "Hong Kong, China"
   employer         :
