@@ -57,7 +57,7 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INF</div><img src='images/LGCN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
     
-**[Learnable Graph Convolutional Network and Feature Fusion for Multi-view Learning](https://doi.org/10.1016/j.ins.2023.120012)**,<br />
+**[Learnable Graph Convolutional Network and Feature Fusion for Multi-view Learning](https://www.sciencedirect.com/science/article/abs/pii/S1566253523000532)**,<br />
    **Zhaoliang Chen**, Lele Fu, Jie Yao, Wenzhong Guo, Claudia Plant, Shiping Wang <br />
    *Information Fusion, Volume 95, Pages 109-119, 2023*. (SCI Q1, ESI Highly Cited) \| [\[code\]](https://github.com/chenzl23/LGCNFF)
 </div></div>
@@ -65,7 +65,7 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDD</div><img src='images/MGCNDNS.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-**[Multi-view Graph Convolutional Networks with Differentiable Node Selection](https://dl.acm.org/doi/abs/10.1145/3628162)**,<br />
+**[Multi-view Graph Convolutional Networks with Differentiable Node Selection](https://dl.acm.org/doi/abs/10.1145/3608954)**,<br />
    **Zhaoliang Chen**, Lele Fu, Shunxin Xiao, Shiping Wang, Claudia Plant, Wenzhong Guo <br />
    *ACM Transactions on Knowledge Discovery from Data, Volume 18(1), Pages 1-21, 2023*. (CCF B)
 </div></div>
@@ -91,7 +91,7 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
   
 **[A review on matrix completion for recommender systems](https://doi.org/10.1007/s10115-021-01629-6)**,<br />
    **Zhaoliang Chen**, Shiping Wang <br />
-   *Knowledge and Information Systems, Volume 64(3), Pages 589-615, 2022*. (CCF B, SCI Q3)
+   *Knowledge and Information Systems, Volume 64(3), Volume 64, Pages 1–34, 2022*. (CCF B, SCI Q3)
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/MKMC.jpg' alt="sym" width="100%"></div></div>
@@ -99,13 +99,13 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
   
 **[Kernel meets recommender systems: A multi-kernel interpolation for matrix completion](https://doi.org/10.1016/j.eswa.2020.114436)**,<br />
    **Zhaoliang Chen**, Wei Zhao, Shiping Wang <br />
-   *Expert Systems with Applications, Volume 172, Page 114436, 2021*. (CCF B, SCI Q1)
+   *Expert Systems with Applications, Volume 168, Page 114436, 2021*. (CCF B, SCI Q1)
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/GRAND.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-**[Refine then Classify: Robust Graph Neural Networks with Reliable Neighborhood Contrastive Refinement](https://www.aaai.org/AAAI25)**,<br />
+**Refine then Classify: Robust Graph Neural Networks with Reliable Neighborhood Contrastive Refinement**,<br />
     Shuman Zhuang, Zhihao Wu, **Zhaoliang Chen**, Hong-Ning Dai, Ximeng Liu <br />
     *AAAI Conference on Artificial Intelligence, 2025*. (CCF A)
 </div></div>
@@ -124,7 +124,7 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
   
 **[Towards Multi-view Consistent Graph Diffusion](https://openreview.net/forum?id=2AnSGzLiGs)**,<br />
     Jielong Lu, Zhihao Wu, **Zhaoliang Chen**, Zhiling Cai, Shiping Wang <br />
-    *ACM Multimedia, 2024*. (CCF A, Oral 3.97%) \| [\[pdf\]](https://openreview.net/pdf?id=2AnSGzLiGs)
+    *ACM Multimedia, 2024*. (CCF A, Oral 3.97%) 
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/GEGCN.jpg' alt="sym" width="100%"></div></div>
@@ -132,11 +132,9 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
   
 **[Generative Essential Graph Convolutional Network for Multi-view Semi-supervised Classification](https://ieeexplore.ieee.org/abstract/document/10462517)**,<br />
     Jielong Lu, Zhihao Wu, Luying Zhong, **Zhaoliang Chen**, Hong Zhao, Shiping Wang <br />
-    *IEEE Transactions on Multimedia, Volume 26, Pages 1-13, 2024*. (CCF B, SCI Q1) \| [\[code\]](https://github.com/long319/GEGCN)
+    *IEEE Transactions on Multimedia, Volume 26, Pages 7987-7999, 2024*. (CCF B, SCI Q1) \| [\[code\]](https://github.com/long319/GEGCN)
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMC genomics</div><img src='images/DeepMoIC.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='images/GCNet.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -145,6 +143,9 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
     Zhihao Wu, **Zhaoliang Chen**, Shide Du, Sujia Huang, Shiping Wang <br />
     *Pattern Recognition, Volume 150, Page 110567, 2024*. (CCF B, SCI Q1) \| [\[code\]](https://github.com/ZhihaoWu99/GCNet)
 </div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMC genomics</div><img src='images/DeepMoIC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
   
 **[DeepMoIC: multi-omics data integration via deep graph convolutional networks for cancer subtype classification](https://link.springer.com/content/pdf/10.1186/s12864-024-11112-5.pdf)**,<br />
     Jiecheng Wu, **Zhaoliang Chen**, Shunxin Xiao, Genggeng Liu, Wenjie Wu, Shiping Wang <br />
