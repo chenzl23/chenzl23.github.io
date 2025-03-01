@@ -182,7 +182,7 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
     *Neural Networks, 2023*. (CCF B, SCI Q1) \| [\[code\]](https://github.com/YuhongChen2320/JFGCN)
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/IMVGCN.jpg' alt="sym" width="100%"></div></div
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/IMVGCN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[Interpretable Graph Convolutional Network for Multi-View Semi-Supervised Learning](https://doi.org/10.1109/TMM.2023.3260649)**,<br />
