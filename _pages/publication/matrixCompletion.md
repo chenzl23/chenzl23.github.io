@@ -13,7 +13,7 @@
   
 **[Kernel meets recommender systems: A multi-kernel interpolation for matrix completion](https://doi.org/10.1016/j.eswa.2020.114436)**,<br />
    **Zhaoliang Chen**, Wei Zhao, Shiping Wang <br />
-   *Expert Systems with Applications, Volume 168, Page 114436, 2021*. (<span style="color:red">**CCF B, SCI Q1**</span>)
+   *Expert Systems with Applications, Volume 168, Page 114436, 2021*. (<span style="color:red">**CCF C, SCI Q1**</span>)
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KAIS</div><img src='images/review.jpg' alt="sym" width="100%"></div></div>
