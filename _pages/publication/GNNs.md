@@ -49,6 +49,11 @@
     *ACM Multimedia, 2024*. (<span style="color:red">**CCF A, Oral 3.97%**</span>) 
 </div></div>
 
+[Preprint]
+**[ADEdgeDrop: Adversarial Edge Dropping for Robust Graph Neural Networks](https://arxiv.org/pdf/2403.09171)**,<br />
+   **Zhaoliang Chen**, Zhihao Wu, Ylli Sadikaj, Claudia Plant, Hong-Ning Dai, Shiping Wang, Yiu-Ming Cheung, Wenzhong Guo <br />
+   *submitted to IEEE Transactions on Knowledge and Data Engineering*. (<span style="color:red">**Major Revision**</span>) 
+
 **[PR]**
 **[Graph Convolutional Network with Elastic Topology](https://www.sciencedirect.com/science/article/pii/S0031320324001158)**,<br />
     Zhihao Wu, **Zhaoliang Chen**, Shide Du, Sujia Huang, Shiping Wang <br />
