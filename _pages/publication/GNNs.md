@@ -56,7 +56,7 @@
 
 **[NN]**
 **[Heterogeneous graph neural network with adaptive relation reconstruction](https://www.sciencedirect.com/science/article/pii/S0893608025001923)**
-Weihong Lin, Zhaoliang Chen, Yuhong Chen, Shiping Wang  <br />
+Weihong Lin, **Zhaoliang Chen**, Yuhong Chen, Shiping Wang  <br />
 *Neural Networks, 2025*.  (<span style="color:red">**CCF B, SCI Q1**</span>)
 
 **[PR]**
