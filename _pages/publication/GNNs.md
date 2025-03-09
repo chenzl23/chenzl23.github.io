@@ -54,6 +54,11 @@
    **Zhaoliang Chen**, Zhihao Wu, Ylli Sadikaj, Claudia Plant, Hong-Ning Dai, Shiping Wang, Yiu-Ming Cheung, Wenzhong Guo <br />
    *submitted to IEEE Transactions on Knowledge and Data Engineering*. (<span style="color:red">**Major Revision**</span>) 
 
+**[NN]**
+**[Heterogeneous graph neural network with adaptive relation reconstruction](https://www.sciencedirect.com/science/article/pii/S0893608025001923)**
+Weihong Lin, Zhaoliang Chen, Yuhong Chen, Shiping Wang  <br />
+*Neural Networks, 2025*.  (<span style="color:red">**CCF B, SCI Q1**</span>)
+
 **[PR]**
 **[Graph Convolutional Network with Elastic Topology](https://www.sciencedirect.com/science/article/pii/S0031320324001158)**,<br />
     Zhihao Wu, **Zhaoliang Chen**, Shide Du, Sujia Huang, Shiping Wang <br />
