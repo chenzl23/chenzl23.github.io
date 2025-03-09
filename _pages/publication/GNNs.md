@@ -55,7 +55,7 @@
    *submitted to IEEE Transactions on Knowledge and Data Engineering*. (<span style="color:red">**Major Revision**</span>) 
 
 **[NN]**
-**[Heterogeneous graph neural network with adaptive relation reconstruction](https://www.sciencedirect.com/science/article/pii/S0893608025001923)**
+**[Heterogeneous graph neural network with adaptive relation reconstruction](https://www.sciencedirect.com/science/article/pii/S0893608025001923)**,<br />
 Weihong Lin, **Zhaoliang Chen**, Yuhong Chen, Shiping Wang  <br />
 *Neural Networks, 2025*.  (<span style="color:red">**CCF B, SCI Q1**</span>)
 
