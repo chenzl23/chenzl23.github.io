@@ -36,7 +36,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/GRAND.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-**Refine then Classify: Robust Graph Neural Networks with Reliable Neighborhood Contrastive Refinement**,<br />
+**[Refine then Classify: Robust Graph Neural Networks with Reliable Neighborhood Contrastive Refinement](https://ojs.aaai.org/index.php/AAAI/article/view/33471/35626)**,<br />
     Shuman Zhuang, Zhihao Wu, **Zhaoliang Chen**, Hong-Ning Dai, Ximeng Liu <br />
     *AAAI Conference on Artificial Intelligence, 2025*. (<span style="color:red">**CCF A**</span>)
 </div></div>
