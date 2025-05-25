@@ -1,5 +1,16 @@
 ## 💡 Graph Neural Networks
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS</div><img src='images/MSHTrans_KDD2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**MSHTrans: Multi-Scale Hypergraph Transformer with Time-Series Decomposition for Temporal Anomaly Detection**,<br />
+   **Zhaoliang Chen**, Zhihao Wu, William K. Cheung, Hong-Ning Dai, Byron Choi, Jiming Liu <br />
+   *Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2025*. (<span style="color:red">**CCF A**</span>) \| [\[code\]](https://github.com/chenzl23/MSHTrans)
+</div></div>
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS</div><img src='images/AGNN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
