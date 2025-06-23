@@ -1,10 +1,9 @@
 ## 💡 Graph Neural Networks
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/ADEdgeDrop.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TKDE</div><img src='images/ADEdgeDrop.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-**[IEEE TKDE]**
 **[ADEdgeDrop: Adversarial Edge Dropping for Robust Graph Neural Networks](https://arxiv.org/pdf/2403.09171)**,<br />
    **Zhaoliang Chen<sup>†</sup>**, Zhihao Wu<sup>†</sup>, Ylli Sadikaj, Claudia Plant, Hong-Ning Dai, Shiping Wang, Yiu-Ming Cheung, Wenzhong Guo <br />
    *IEEE Transactions on Knowledge and Data Engineering, 2025*. (<span style="color:red">**CCF A, SCI Q1**</span>)
