@@ -64,6 +64,9 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
   - NeurIPS 2024
 
 # 📝 Publications 
+<p style="font-size:0.9em; color:#666; margin-top:-10px; margin-bottom:5px;">
+<sup>†</sup> indicates co-first author; * indicates corresponding author. <a href="https://scholar.google.com/citations?user=QDlGhPsAAAAJ" target="_blank">Full List</a>
+</p>
 
 {% include_relative publication/GNNs.md %}
 
