@@ -4,9 +4,9 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TKDE</div><img src='images/ADEdgeDrop.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-**ADEdgeDrop: Adversarial Edge Dropping for Robust Graph Neural Networks**,<br />
+**[ADEdgeDrop: Adversarial Edge Dropping for Robust Graph Neural Networks](https://ieeexplore.ieee.org/abstract/document/11075600)**,<br />
    **Zhaoliang Chen<sup>†</sup>**, Zhihao Wu<sup>†</sup>, Ylli Sadikaj, Claudia Plant, Hong-Ning Dai, Shiping Wang, Yiu-Ming Cheung, Wenzhong Guo <br />
-   *IEEE Transactions on Knowledge and Data Engineering, 2025*. (<span style="color:red">**CCF A, SCI Q1**</span>)
+   *IEEE Transactions on Knowledge and Data Engineering, 2025*. (<span style="color:red">**CCF A, SCI Q1**</span>) \| [\[code\]](https://github.com/chenzl23/ADEdgeDrop)
 </div></div>
 
 
