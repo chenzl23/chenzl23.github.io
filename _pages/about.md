@@ -37,7 +37,6 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
 - *2022.10 - 2023.10*, Joint Ph.D. Student funded by CSC, Faculty of Computer Science, University of Vienna, Austria.
 - *2015.09 - 2019.06*, B.E., College of Mathematics and Computer Science, Fuzhou University, China
 
-
 # 📖 Academic Service
 - **Reviewers**
   - IEEE Transactions on Image Processing (IEEE TIP)
