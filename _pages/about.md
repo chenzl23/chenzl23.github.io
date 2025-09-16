@@ -59,7 +59,7 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
   - AAAI 2026
   - KDD 2025, 2026
   - ICML 2025
-  - CVPR 2025
+  - CVPR 2025, 2026
   - IJCAI 2025
   - ACM MM 2024, 2025
   - ECCV 2024
