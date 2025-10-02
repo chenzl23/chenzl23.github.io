@@ -23,6 +23,7 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 It is a great honor to receive the ACM China Xiamen Chapter Outstanding Doctoral Dissertation Award!
 - *2025.09*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS 2025, Congrats to [Zhihao Wu](https://zhihaowu99.github.io/)!
 - *2025.06*: &nbsp;🎉🎉 One paper has been accepted by IEEE TKDE (CCF-A)!
 - *2025.05*: &nbsp;🎉🎉 One paper has been accepted by KDD 2025 (CCF-A)!
