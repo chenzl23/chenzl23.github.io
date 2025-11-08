@@ -1,9 +1,18 @@
 ## 💡 Graph Neural Networks
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TKDE</div><img src='images/GVGAE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Gated Variational Graph Autoencoders as Experts with Competition and Consensus for Multi-view Clustering**,<br />
+   **Zhaoliang Chen**, William K. Cheung, Hong-Ning Dai, Byron Choi, Jiming Liu <br />
+   *AAAI Conference on Artificial Intelligence, 2026*. (<span style="color:red">**CCF A**</span>)
+</div></div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TKDE</div><img src='images/ADEdgeDrop.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
+
 **[ADEdgeDrop: Adversarial Edge Dropping for Robust Graph Neural Networks](https://ieeexplore.ieee.org/abstract/document/11075600)**,<br />
    **Zhaoliang Chen<sup>†</sup>**, Zhihao Wu<sup>†</sup>, Ylli Sadikaj, Claudia Plant, Hong-Ning Dai, Shiping Wang, Yiu-Ming Cheung, Wenzhong Guo <br />
    *IEEE Transactions on Knowledge and Data Engineering, 2025*. (<span style="color:red">**CCF A, SCI Q1**</span>) \| [\[code\]](https://github.com/chenzl23/ADEdgeDrop)
