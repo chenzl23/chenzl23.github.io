@@ -82,6 +82,14 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
 
 {% include_relative publication/others.md %}
 
+
+# 🏆 Awards
+  - ACM China Xiamen Chapter “Outstanding Doctoral Dissertation Award” (Ranking 1st, 2025) <br> ACM China厦门分会“优博奖” (排名第一, 2025)
+  - Fuzhou University Outstanding Doctoral Dissertation (2025) <br> 福州大学博士优秀毕业论文（2025）
+  - Fuzhou University Outstanding Graduate (2024) <br> 福州大学优秀毕业生（2024）
+  - Fuzhou University Special Grade Academic Scholarship for Doctoral Candidates (2024) <br> 福州大学博士研究生优秀学业奖学金特等奖 (2025)
+  - National Scholarship for Doctoral Candidates (2022) <br> 博士研究生国家奖学金（2022）
+
 # 📎 Links
 - [FZUThesis](https://github.com/chenzl23/FZUThesis): Latex Template for FZU Thesis.
 - [CCF Recommendation List](https://ccf.atom.im/)
