@@ -78,6 +78,11 @@
 </div></div>
 
 
+**[INF]**
+**[Dissecting vulnerability in information fusion process of graph convolutional networks](https://www.sciencedirect.com/science/article/pii/S1566253525006086)**,<br />
+Shuman Zhuang, Zhihao Wu, Jicong Fan, **Zhaoliang Chen**, Jiali Yin, Wei Huang, Ximeng Liu <br />
+*Information Fusion, 2025*.  (<span style="color:red">**CAAI-A, SCI Q1**</span>)
+
 **[NN]**
 **[Heterogeneous graph neural network with adaptive relation reconstruction](https://www.sciencedirect.com/science/article/pii/S0893608025001923)**,<br />
 Weihong Lin, **Zhaoliang Chen**, Yuhong Chen, Shiping Wang  <br />
