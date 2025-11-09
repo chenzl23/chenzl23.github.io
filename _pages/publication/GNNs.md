@@ -1,7 +1,7 @@
 ## 💡 Graph Neural Networks
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TKDE</div><img src='images/GVGAE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/GVGAE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Gated Variational Graph Autoencoders as Experts with Competition and Consensus for Multi-view Clustering**,<br />
