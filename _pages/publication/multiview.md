@@ -5,7 +5,7 @@
     
 **[Learnable Graph Convolutional Network and Feature Fusion for Multi-view Learning](https://www.sciencedirect.com/science/article/abs/pii/S1566253523000532)**,<br />
    **Zhaoliang Chen**, Lele Fu, Jie Yao, Wenzhong Guo, Claudia Plant, Shiping Wang <br />
-   *Information Fusion, Volume 95, Pages 109-119, 2023*. (<span style="color:red">**SCI Q1, ESI Highly Cited**</span>) \| [\[code\]](https://github.com/chenzl23/LGCNFF)
+   *Information Fusion, Volume 95, Pages 109-119, 2023*. (<span style="color:red">**CAAI-A, SCI Q1, ESI Highly Cited**</span>) \| [\[code\]](https://github.com/chenzl23/LGCNFF)
 </div></div>
 
 
