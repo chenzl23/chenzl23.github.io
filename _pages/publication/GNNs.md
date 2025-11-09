@@ -33,7 +33,7 @@
   
 **[AGNN: Alternating Graph-Regularized Neural Networks to Alleviate Over-Smoothing](https://doi.org/10.1109/TNNLS.2023.3271623)**,<br />
    **Zhaoliang Chen**, Zhihao Wu, Zhenghong Lin, Shiping Wang, Claudia Plant, Wenzhong Guo <br />
-   *IEEE Transactions on Neural Networks and Learning Systems, Volume 35(10), Pages 13764-13776, 2024*. (<span style="color:red">**CCF B, SCI Q1**</span>) \| [\[code\]](https://github.com/chenzl23/AGNN)
+   *IEEE Transactions on Neural Networks and Learning Systems, Volume 35(10), Pages 13764-13776, 2024*. (<span style="color:red">**CAAI-A, SCI Q1**</span>) \| [\[code\]](https://github.com/chenzl23/AGNN)
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/DLRGAE.jpg' alt="sym" width="100%"></div></div>
@@ -66,7 +66,7 @@
   
 **[Learnable Graph Convolutional Network With Semisupervised Graph Information Bottleneck](https://doi.org/10.1109/TNNLS.2023.3322739)**,<br />
     Luying Zhong, **Zhaoliang Chen**, Zhihao Wu, Shide Du, Zheyi Chen, Shiping Wang <br />
-    *IEEE Transactions on Neural Networks and Learning Systems, Volume 36(1), Page 433-446, 2025*. (<span style="color:red">**CCF B, SCI Q1**</span>)
+    *IEEE Transactions on Neural Networks and Learning Systems, Volume 36(1), Page 433-446, 2025*. (<span style="color:red">**CAAI-A, SCI Q1**</span>)
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/ECMGD.jpg' alt="sym" width="100%"></div></div>
