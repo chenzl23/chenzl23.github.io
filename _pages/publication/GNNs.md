@@ -4,7 +4,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/GVGAE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Gated Variational Graph Autoencoders as Experts with Competition and Consensus for Multi-view Clustering**,<br />
+**[Gated Variational Graph Autoencoders as Experts with Competition and Consensus for Multi-view Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/39179/43140)**,<br />
    **Zhaoliang Chen**, William K. Cheung, Hong-Ning Dai, Byron Choi, Jiming Liu <br />
    *AAAI Conference on Artificial Intelligence, 2026*. (<span style="color:red">**CCF A**</span>) \| [\[code\]](https://github.com/chenzl23/GVGAEC2) 
 </div></div>
