@@ -21,5 +21,5 @@
   
 **[A review on matrix completion for recommender systems](https://doi.org/10.1007/s10115-021-01629-6)**,<br />
    **Zhaoliang Chen**, Shiping Wang <br />
-   *Knowledge and Information Systems, Volume 64(3), Volume 64, Pages 1–34, 2022*. (<span style="color:red">**CCF B, SCI Q3**</span>)
+   *Knowledge and Information Systems, Volume 64(3), Volume 64, Pages 1–34, 2022*. (<span style="color:red">**CCF B, SCI Q4**</span>)
 </div></div>
