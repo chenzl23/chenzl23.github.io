@@ -17,7 +17,7 @@
    *IEEE Transactions on Pattern Analysis and Machine Intelligence, Volume 44(12), Pages 9124-9138, 2022*. (<span style="color:red">**CCF A, SCI Q1**</span>) \| [\[code\]](https://github.com/chenzl23/DSRL)
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDD</div><img src='images/MGCNDNS.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TKDD</div><img src='images/MGCNDNS.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[Multi-view Graph Convolutional Networks with Differentiable Node Selection](https://dl.acm.org/doi/abs/10.1145/3608954)**,<br />
