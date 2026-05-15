@@ -25,6 +25,19 @@
    *ACM Transactions on Knowledge Discovery from Data, Volume 18(1), Pages 1-21, 2023*. (<span style="color:red">**CCF B, SCI Q1**</span>)
 </div></div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP</div><img src='images/ADANet.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**[ADANet: Adversarial Distribution Alignment Network for Multi-view Semi-supervised Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11511401)**,<br />
+   Sujia Huang, Lele Fu, **Zhaoliang Chen**, Tong Zhang, Xiaoli Li, Zhen Cui <br />
+   *IEEE Transactions on Image Processing, Volume 35, Pages 4861-4876, 2026*. (<span style="color:red">**CCF A, SCI Q1**</span>) \| [\[code\]](https://github.com/chenzl23/DSRL)
+</div></div>
+
+**[IEEE TNSE]**
+**[An Explainable and Flexible Plug-and-Play Multi-view Representation Learning Network](https://ieeexplore.ieee.org/abstract/document/11478651/)**,<br />
+    Shide Du, Zihan Fang, **Zhaoliang Chen**, Ying Zou, Aiping Huang <br />
+    *IEEE Transactions on Network Science and Engineering, Volume 13, Pages 8612-8627, 2026*. (<span style="color:red">**SCI Q2**</span>) \| [\[code\]](https://github.com/long319/GEGCN)
+
 **[IEEE TMM]**
 **[Generative Essential Graph Convolutional Network for Multi-view Semi-supervised Classification](https://ieeexplore.ieee.org/abstract/document/10462517)**,<br />
     Jielong Lu, Zhihao Wu, Luying Zhong, **Zhaoliang Chen**, Hong Zhao, Shiping Wang <br />
