@@ -53,7 +53,7 @@
 </div></div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/MvCGE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/MvCGE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **[Where Graph Meets Heterogeneity: Multi-View Collaborative Graph Experts](https://proceedings.neurips.cc/paper_files/paper/2025/file/7315c16422558ae81d65a812723d2cec-Paper-Conference.pdf)**,<br />
