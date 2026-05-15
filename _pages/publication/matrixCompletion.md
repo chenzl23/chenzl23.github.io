@@ -5,7 +5,7 @@
   
 **[Efficient and Differentiable Low-rank Matrix Completion with Back Propagation](https://doi.org/10.1109/TMM.2021.3124087)**,<br />
    **Zhaoliang Chen**, Jie Yao, Guobao Xiao, Shiping Wang <br />
-   *IEEE Transactions on Multimedia, Volume 25, Pages 5123-5135, 2023*. (<span style="color:red">**CCF B, SCI Q1**</span>) \| [\[code\]](https://github.com/chenzl23/DLRL)
+   *IEEE Transactions on Multimedia, Volume 25, Pages 5123-5135, 2023*. (<span style="color:red">**CCF A, SCI Q1**</span>) \| [\[code\]](https://github.com/chenzl23/DLRL)
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/MKMC.jpg' alt="sym" width="100%"></div></div>
