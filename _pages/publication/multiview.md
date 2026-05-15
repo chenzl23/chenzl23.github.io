@@ -36,7 +36,7 @@
 **[IEEE TNSE]**
 **[An Explainable and Flexible Plug-and-Play Multi-view Representation Learning Network](https://ieeexplore.ieee.org/abstract/document/11478651/)**,<br />
     Shide Du, Zihan Fang, **Zhaoliang Chen**, Ying Zou, Aiping Huang <br />
-    *IEEE Transactions on Network Science and Engineering, Volume 13, Pages 8612-8627, 2026*. (<span style="color:red">**SCI Q2**</span>) \| [\[code\]](https://github.com/long319/GEGCN)
+    *IEEE Transactions on Network Science and Engineering, Volume 13, Pages 8612-8627, 2026*. (<span style="color:red">**SCI Q2**</span>)
 
 **[IEEE TMM]**
 **[Generative Essential Graph Convolutional Network for Multi-view Semi-supervised Classification](https://ieeexplore.ieee.org/abstract/document/10462517)**,<br />
