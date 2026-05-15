@@ -14,7 +14,7 @@
   
 **[Learning Deep Sparse Regularizers With Applications to Multi-View Clustering](https://doi.org/10.1109/TPAMI.2021.3082632)**,<br />
    Shiping Wang, **Zhaoliang Chen**, Shide Du, Zhouchen Lin <br />
-   *IEEE Transactions on Pattern Analysis and Machine Intelligence, Volume 44(12), Pages 9124-9138, 2022*. (<span style="color:red">**CCF A, SCI Q1**</span>) \| [\[code\]](https://github.com/chenzl23/DSRL)
+   *IEEE Transactions on Pattern Analysis and Machine Intelligence, Volume 44(12), Pages 9124-9138, 2022*. (<span style="color:red">**CCF A, SCI Q1, ESI Highly Cited**</span>) \| [\[code\]](https://github.com/chenzl23/DSRL)
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TKDD</div><img src='images/MGCNDNS.jpg' alt="sym" width="100%"></div></div>
@@ -68,7 +68,7 @@
 **[IEEE TMM]**
 **[Interpretable Graph Convolutional Network for Multi-View Semi-Supervised Learning](https://doi.org/10.1109/TMM.2023.3260649)**,<br />
     Zhihao Wu, Xincan Lin, Zhenghong Lin, **Zhaoliang Chen**, Yang Bai, Shiping Wang <br />
-    *IEEE Transactions on Multimedia, Volume 25, Pages 8593-8606, 2023*. (<span style="color:red">**CCF A, SCI Q1**</span>) \| [\[code\]](https://github.com/ZhihaoWu99/IMvGCN)
+    *IEEE Transactions on Multimedia, Volume 25, Pages 8593-8606, 2023*. (<span style="color:red">**CCF A, SCI Q1, ESI Highly Cited**</span>) \| [\[code\]](https://github.com/ZhihaoWu99/IMvGCN)
 
 **[IEEE TMM]**
 **[Dual Fusion-Propagation Graph Neural Network for Multi-View Clustering](https://doi.org/10.1109/TMM.2023.3248173)**,<br />
