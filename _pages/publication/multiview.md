@@ -41,7 +41,7 @@
 **[IEEE TMM]**
 **[Generative Essential Graph Convolutional Network for Multi-view Semi-supervised Classification](https://ieeexplore.ieee.org/abstract/document/10462517)**,<br />
     Jielong Lu, Zhihao Wu, Luying Zhong, **Zhaoliang Chen**, Hong Zhao, Shiping Wang <br />
-    *IEEE Transactions on Multimedia, Volume 26, Pages 7987-7999, 2024*. (<span style="color:red">**CCF B, SCI Q1**</span>) \| [\[code\]](https://github.com/long319/GEGCN)
+    *IEEE Transactions on Multimedia, Volume 26, Pages 7987-7999, 2024*. (<span style="color:red">**CCF A, SCI Q1**</span>) \| [\[code\]](https://github.com/long319/GEGCN)
 
 **[BMC Genomics]**
 **[DeepMoIC: multi-omics data integration via deep graph convolutional networks for cancer subtype classification](https://link.springer.com/content/pdf/10.1186/s12864-024-11112-5.pdf)**,<br />
@@ -68,17 +68,17 @@
 **[IEEE TMM]**
 **[Interpretable Graph Convolutional Network for Multi-View Semi-Supervised Learning](https://doi.org/10.1109/TMM.2023.3260649)**,<br />
     Zhihao Wu, Xincan Lin, Zhenghong Lin, **Zhaoliang Chen**, Yang Bai, Shiping Wang <br />
-    *IEEE Transactions on Multimedia, Volume 25, Pages 8593-8606, 2023*. (<span style="color:red">**CCF B, SCI Q1**</span>) \| [\[code\]](https://github.com/ZhihaoWu99/IMvGCN)
+    *IEEE Transactions on Multimedia, Volume 25, Pages 8593-8606, 2023*. (<span style="color:red">**CCF A, SCI Q1**</span>) \| [\[code\]](https://github.com/ZhihaoWu99/IMvGCN)
 
 **[IEEE TMM]**
 **[Dual Fusion-Propagation Graph Neural Network for Multi-View Clustering](https://doi.org/10.1109/TMM.2023.3248173)**,<br />
     Shunxin Xiao, Shide Du, **Zhaoliang Chen**, Yunhe Zhang, Shiping Wang <br />
-    *IEEE Transactions on Multimedia, Volume 25, Pages 9203-9215, 2023*. (<span style="color:red">**CCF B, SCI Q1**</span>) \| [\[code\]](https://github.com/Xiaoshunxin/DFP-GNN)
+    *IEEE Transactions on Multimedia, Volume 25, Pages 9203-9215, 2023*. (<span style="color:red">**CCF A, SCI Q1**</span>) \| [\[code\]](https://github.com/Xiaoshunxin/DFP-GNN)
 
 **[IEEE TMM]**
 **[Unified Low-Rank Tensor Learning and Spectral Embedding for Multi-View Subspace Clustering](https://doi.org/10.1109/TMM.2022.3185886)**,<br />
     Lele Fu, **Zhaoliang Chen**, Yongyong Chen, Shiping Wang <br />
-    *IEEE Transactions on Multimedia, Volume 25, Pages 4972-4985, 2022*. (<span style="color:red">**CCF B, SCI Q1**</span>)
+    *IEEE Transactions on Multimedia, Volume 25, Pages 4972-4985, 2022*. (<span style="color:red">**CCF A, SCI Q1**</span>)
 
 
 **[INS]**
