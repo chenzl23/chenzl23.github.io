@@ -101,4 +101,4 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
 - [Latex Table Generator](https://www.tablesgenerator.com/)
 - [Excel2latex](https://ctan.org/pkg/excel2latex?lang=en): a package for transforming excel tables into latex codes.
 
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=n&d=AYG_JMwPCNULF1JiGcb1M92oLMUck1L-32YGpkdm1FM'></script>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=n&d=AYG_JMwPCNULF1JiGcb1M92oLMUck1L-32YGpkdm1FM'></script>
