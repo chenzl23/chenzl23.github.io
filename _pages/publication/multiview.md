@@ -30,7 +30,7 @@
   
 **[ADANet: Adversarial Distribution Alignment Network for Multi-view Semi-supervised Classification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11511401)**,<br />
    Sujia Huang, Lele Fu, **Zhaoliang Chen**, Tong Zhang, Xiaoli Li, Zhen Cui <br />
-   *IEEE Transactions on Image Processing, Volume 35, Pages 4861-4876, 2026*. (<span style="color:red">**CCF A, SCI Q1**</span>)
+   *IEEE Transactions on Image Processing, Volume 35, Pages 4861-4876, 2026*. (<span style="color:red">**CCF A, SCI Q1**</span>) \| [\[code\]](https://github.com/huangsuj/ADANet)
 </div></div>
 
 **[IEEE TNSE]**
