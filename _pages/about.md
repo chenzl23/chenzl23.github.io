@@ -36,7 +36,7 @@ I received my Ph.D. degree from the College of Computer and Data Science, Fuzhou
 - *2024.05*: &nbsp;🎉🎉 I have successfully passed my doctoral thesis defense! 
 
 # 📖 Work Experience
-- *2024.09 - Now*, Postdoc, Department of Computer Science, Hong Kong Baptist University, Hong Kong SAR, China.
+- *2024.09 - 2026.09*, Postdoctoral Research Fellow, Department of Computer Science, Hong Kong Baptist University, Hong Kong SAR, China.
 
 # 📖 Educations
 - *2019.09 - 2024.06*, Ph.D., College of Computer and Data Science, Fuzhou University, China.
